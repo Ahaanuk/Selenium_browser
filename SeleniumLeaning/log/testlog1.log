@@ -1,0 +1,17 @@
+2020-04-26 14:43:23,712 [main] INFO LogDemo - Chrome is opened
+2020-04-26 14:43:26,001 [main] INFO LogDemo - Browser is maximaize
+2020-04-26 14:43:27,448 [main] INFO LogDemo - App lunched
+2020-04-26 15:01:57,114 [main] INFO LogDemo - Chrome is opened
+2020-04-26 15:01:59,312 [main] INFO LogDemo - Browser is maximaize
+2020-04-26 15:02:00,611 [main] INFO LogDemo - App lunched
+2020-04-26 15:02:40,207 [main] INFO LogDemo - Chrome is opened
+2020-04-26 15:02:42,379 [main] INFO LogDemo - Browser is maximaize
+2020-04-26 15:02:44,386 [main] INFO LogDemo - App lunched
+2020-04-26 15:02:44,999 [main] INFO LogDemo - click on search button
+2020-04-26 15:02:45,046 [main] INFO LogDemo - capture the text
+2020-04-26 15:05:06,165 [main] INFO LogDemo - Chrome is opened
+2020-04-26 15:05:08,355 [main] INFO LogDemo - Browser is maximaize
+2020-04-26 15:05:09,830 [main] INFO LogDemo - App lunched
+2020-04-26 15:05:09,961 [main] INFO LogDemo - click on search button
+2020-04-26 15:05:09,967 [main] INFO LogDemo - capture the text
+2020-04-26 15:05:09,977 [main] INFO LogDemo - Accept alart window

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite2" duration-ms="45" started-at="2020-05-02T16:31:22 EDT" finished-at="2020-05-02T16:31:22 EDT">
+    <groups>
+      <group name="smoke">
+        <method signature="GroupingDemo.test2()[pri:0, instance:testngExapledemo.GroupingDemo@614ddd49]" name="test2" class="testngExapledemo.GroupingDemo"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="GroupingDemo.test1()[pri:0, instance:testngExapledemo.GroupingDemo@614ddd49]" name="test1" class="testngExapledemo.GroupingDemo"/>
+        <method signature="GroupingDemo.test2()[pri:0, instance:testngExapledemo.GroupingDemo@614ddd49]" name="test2" class="testngExapledemo.GroupingDemo"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Test2" duration-ms="45" started-at="2020-05-02T16:31:22 EDT" finished-at="2020-05-02T16:31:22 EDT">
+      <class name="testngExapledemo.GroupingDemo">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testngExapledemo.GroupingDemo@614ddd49]" name="test1" duration-ms="6" started-at="2020-05-02T16:31:22 EDT" finished-at="2020-05-02T16:31:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testngExapledemo.GroupingDemo@614ddd49]" name="test2" duration-ms="1" started-at="2020-05-02T16:31:22 EDT" finished-at="2020-05-02T16:31:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testngExapledemo.GroupingDemo -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite2 -->
+</testng-results>

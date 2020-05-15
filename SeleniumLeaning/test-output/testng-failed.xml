@@ -5,12 +5,20 @@
     <classes>
       <class name="gtplBank_SignIn.LoginTest">
         <methods>
-          <include name="tearDown"/>
-          <include name="titleTest"/>
           <include name="setup"/>
+          <include name="titleTest"/>
+          <include name="tearDown"/>
           <include name="getResult"/>
         </methods>
       </class> <!-- gtplBank_SignIn.LoginTest -->
+      <class name="gtplBank_SignIn.LoginTest2">
+        <methods>
+          <include name="setup"/>
+          <include name="getResult"/>
+          <include name="titleTest2"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- gtplBank_SignIn.LoginTest2 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
